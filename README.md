@@ -3,7 +3,7 @@
 This project contains two simple LangChain examples:
 
 - `app(3).py`: a Streamlit question-answering interface that uses the local Ollama `gemma:2b` model.
-- `1.2.1-Simpleapp.ipynb`: a retrieval-augmented generation (RAG) notebook that loads a webpage, splits its content, stores OpenAI embeddings in FAISS, and answers questions with an OpenAI chat model.
+- `Simpleapp.ipynb`: a retrieval-augmented generation (RAG) notebook that loads a webpage, splits its content, stores OpenAI embeddings in FAISS, and answers questions with an OpenAI chat model.
 
 ## Requirements
 
